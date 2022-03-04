@@ -1,0 +1,147 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Raleway:400,200,100,300,500,600,700,800,900
+);
+
+body{
+    margin: 0;
+    padding: 0%;
+    font-family: Helvetica, Arial, sans-serif, 'Raleway';+
+
+}
+header{
+    background-image: url(header_bg.jpg);
+    text-align: center;
+    
+}
+
+
+#photo{
+    width: 200px;
+    
+    
+}
+#GREEN{
+    color:#3d9f96 ;
+    font-family: Open Sans, Arial, sans-serif ;
+}
+
+#title{
+    color:#f7f7f7;
+    font-family: Helvetica, Arial, sans-serif, 'Raleway';
+
+}
+#text{
+    color: #f7f7f7;
+}
+#bouton{
+    color: #ffffff;
+    background: #3d9f96;
+    width: 150px;
+    margin-left: 10px;
+    padding: 2%;
+    border-radius: 50rem;
+    border: #3d9f96;
+
+    
+}
+#ordi{
+     margin: 1px;
+     padding: 10px;
+     width: 250px;
+}
+/*
+.images{
+    display:inline-block;
+    margin: 1%;
+}*/
+.conteneur{
+    padding: 0.5cm 0;
+    
+}
+.ligne{display: flex;
+    justify-content:space-between;
+    width: 50%;
+    margin: auto;
+}
+
+#cafe{
+    width: 28px;
+}
+
+#jhon{
+    color: #3d9f96;
+    font-size:20px;
+}
+.next{
+    background-image: url(header_bg.jpg);
+    color: #f7f7f7;
+}
+#see{
+    color: #ffffff;
+    background: #3d9f96;
+    border-radius: 50rem;
+    border: #3d9f96;
+    width: 250px;
+    margin-left: 10px;
+    padding: 2%;
+    font-size: small;
+}
+#layer{
+    margin-top: 100px;
+}
+
+#here{
+    color: #ffffff;
+    background: #3d9f96;
+    border-radius: 50rem;
+    border: #3d9f96;
+    width: 250px;
+    margin-left: 10px;
+    padding: 2%;
+    font-size: small; 
+}
+
+#noir{
+    width: 100%;
+    margin-top: 250px;
+    margin-right: 2px;
+    padding: 0%;
+}
+
+#noir img{
+    width:100%;
+}
+
+.list{
+    list-style-type: none;
+    padding: 0;
+}
+
+#contact{
+    margin-top: 50px;
+}
+
+#SARL{
+    margin-top: 30px;
+}
+
+.container{
+    padding: 0.5cm 0;
+}
+
+.ligne1{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 50%;
+}
+
+.font1{
+    font-family: Open Sans, Arial, sans-serif ;
+}
+.font2{
+    font-family: Helvetica, Arial, sans-serif, 'Raleway';
+}
+
+
+
+
